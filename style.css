@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5 rem;
+    font-weight: 700;
+    font-size: 16px;
+
+}
+.container{
+    padding-left: 3rem;
+    padding-right: 1rem;
+}
+.headerbar{
+width: 100%;
+float: left;
+
+background-color: rgb(48, 45, 45);
+color: grey;
+padding-top: 0.5rem;
+padding-bottom: 0.5rem;
+}
+.contact{
+width: 92%;
+float: left;
+
+}
+.social{
+    width: 8%;
+    float: left;
+}
+.contact ul{
+
+}
+.contact li{
+list-style: none;
+display: inline-block;
+}
+.contact a{
+text-decoration: none;
+color: white;
+display: inline-block;
+}
+.social ul{
+
+}
+.social li{
+list-style: none;
+display: inline-block;
+}
+.fa-angle-double-right{
+    color: rgb(148, 143, 143);
+}
+.fa-map-marker{
+    color: white;
+}
+.fa-phone{
+color: white;
+}
+.fa-envelope{
+color: white;
+}
+.fa-linkedin-in{
+color: white;
+}
+.fa-twitter{
+    color: white;
+}
+.navbar{
+    width: 100%;
+    float: left;
+background-color: white;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+    
+}
+.menu{
+    width: 80%;
+    float: left;
+    padding-top: 2.5rem;
+  
+  
+}
+ .menu li:hover{
+     color: blue;
+ }   
+.menu li:first-child{
+   
+    color: blue;
+}
+.menu ul{
+padding-left: 13rem;
+}
+.menu li{
+display: inline-block;
+float: left;
+justify-content: space-around;
+align-items: center;
+padding-left: 1rem;
+padding-right: 1rem;
+}
+.menu a{
+text-decoration: none;
+color: black;
+}
+.bannerbar{
+width: 100%;
+float: left;
+background-color: rgb(45, 45, 153);
+color: white;
+
+
+}
+.bannertext{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    width: 50%;
+    float: left;
+    display: block;
+}
+.bannertext li{
+    list-style: none;
+}
+.bannertext h1{
+    padding-bottom: 1rem;
+    font-size: 28px;
+    font-weight: 900;
+   
+   
+}
+.bannerimg{
+    width: 50%;
+    float: right;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    display: block;
+
+
+}
+.linkbar{
+    width: 100%;
+    float: left;
+
+    background-color: rgb(223, 217, 217);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+}
+.linkbar p{
+font-weight: 600;
+color: rgb(92, 87, 87);
+}
+.mainbar{
+width: 100%;
+float: left;
+background-color: white;
+}
+.maintext{
+    width: 50%;
+    float: left;
+    padding-top: 3rem;
+}
+.maintext p{
+    padding-bottom: 2rem;
+}
+.mainimg{
+    width: 50%;
+    float: right;
+    width: 80vh;
+    height: 50vh;
+
+}
+.footer1{
+    width: 100%;
+    float: left;
+    background-color: rgb(22, 21, 21);
+    justify-content: space-around;
+   color: rgb(148, 143, 143);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-weight: 300;
+   
+
+}
+.footer11{
+    width: 45%;
+    float: left;
+    display: inline-block;
+    
+
+}
+.footer11 li{
+    list-style: none;
+}
+.footer11 img{
+    padding-bottom: 1.5rem;
+}
+.footer11 p{
+    padding-bottom: 1rem;
+}
+.footer12{
+    width: 20%;
+    float: left;
+    display: inline-block;
+   
+
+}
+.footer13{
+    width: 35%;
+    float: left;
+    display: inline-block;
+    
+
+}
+.footer12 li{
+    list-style: none;
+    padding-bottom: 1rem;
+
+
+
+}
+.footer12 p{
+   
+    padding-bottom: 1.5rem;
+    
+    color: white;
+
+
+
+}
+
+.bold{
+    font-weight: 900;
+}
+.footer13 li{
+    list-style: none;
+    padding-bottom: 1rem;
+    
+
+
+}
+.footer13 a{
+    text-decoration: none;
+    color: rgb(148, 143, 143);
+    
+
+
+}
+.footer13 p{
+    padding-bottom: 1.5rem;
+    font-weight: 900;
+    color: white;
+
+
+}
+
+
+.footer2{
+   width: 100%;
+   float: left;
+    background-color: rgb(3, 3, 3);
+    color: ivory;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+   
+
+}
+.left{
+   width: 78%;
+   float: left; 
+   
+}
+.right{
+    width: 22%;
+   float: right;
+   
+
+}
+
